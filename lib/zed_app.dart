@@ -21,6 +21,7 @@ class _ZedAppState extends State<ZedApp> {
       child: MaterialApp(
         debugShowCheckedModeBanner: false,
         theme: ThemeData(
+          
           primaryColor: Colors.green,
           scaffoldBackgroundColor: Colors.white,
         ),
