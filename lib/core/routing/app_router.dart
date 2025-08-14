@@ -2,7 +2,7 @@
 import 'package:flutter/material.dart';
 import 'package:zed_studio_app/core/routing/routes.dart';
 import 'package:zed_studio_app/features/login/ui/login_screen.dart';
-import 'package:zed_studio_app/features/onboarding/ui/onboarding_screen.dart';
+import 'package:zed_studio_app/features/onboarding/onboarding_screen.dart';
 import 'package:zed_studio_app/features/signup/ui/signup_screen.dart';
 
 class AppRouter {
