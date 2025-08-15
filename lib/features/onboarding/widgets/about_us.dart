@@ -12,8 +12,9 @@ class AboutUs extends StatelessWidget {
       children: [
         Text(
           "Your Guide to Italian Tax & Immigration",
-          style: TextStyles.font30BlackBold,
+          style: TextStyles.font30BlackBold.copyWith(height: 1.2),
           textAlign: TextAlign.center,
+
         ),
         verticalSpace(20.h),
         Text(
