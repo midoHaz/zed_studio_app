@@ -7,7 +7,8 @@ An App for Consulting: Your Reliable Partner for Tax Simplification. From Tax As
 <img width="375" height="812" alt="splash (2)" src="https://github.com/user-attachments/assets/c1c393f2-7654-4637-946b-5796f44676c3" />
 
 # Onboarding Screen with animation 
-![Screenshot_20250814_203405](https://github.com/user-attachments/assets/112ef9de-003c-4f8c-aca6-f39befb0c760)
+![5834673700107046359](https://github.com/user-attachments/assets/bfaea140-9c1d-4df6-b20a-9fcb4a9f376e)
+
 
 
 
