@@ -14,7 +14,7 @@ class OnboardingScreen extends StatelessWidget {
       body: SafeArea(
         child: SingleChildScrollView(
           child: Padding(
-            padding: EdgeInsets.only(top: 80.h,left: 20.w, right: 20.w),
+            padding: EdgeInsets.only(top: 50.h,left: 20.w, right: 20.w),
             child: Column(
               children: [
                 const OnboardingLottie(),
