@@ -3,6 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:zed_studio_app/core/routing/routes.dart';
 import 'package:zed_studio_app/features/login/ui/login_screen.dart';
 import 'package:zed_studio_app/features/onboarding/onboarding_screen.dart';
+import 'package:zed_studio_app/features/signup/ui/signup_otp_verification_screen.dart';
 import 'package:zed_studio_app/features/signup/ui/signup_screen.dart';
 
 class AppRouter {
@@ -20,6 +21,10 @@ class AppRouter {
       case Routes.signUpScreen:
         return MaterialPageRoute(
           builder: (_) => const SignupScreen(),
+        );
+        case Routes.signUpOtpVerificationScreen:
+        return MaterialPageRoute(
+          builder: (_) => const SignUpOtpVerificationScreen(),
         );
       default:
         return MaterialPageRoute(
