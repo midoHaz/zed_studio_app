@@ -12,6 +12,15 @@ An App for Consulting: Your Reliable Partner for Tax Simplification. From Tax As
 # Login Screen 
 ![LoginScreen](https://github.com/user-attachments/assets/66d05fa7-1add-4193-8254-8da736c8bc72)
 
+# Sign Up Screen
+![Sign_Up Screen](https://github.com/user-attachments/assets/f873c97d-263f-4b4d-90ab-2d1dc298926c)
+
+# Inactive OTP Screen
+![inactive_otp_screen](https://github.com/user-attachments/assets/7df1add5-831f-4175-9616-42943300589d)
+
+# Active OTP Screen
+![active_otp_screen ](https://github.com/user-attachments/assets/7bde789b-3c54-40e3-853d-365420d104c3)
+
 
 
 
